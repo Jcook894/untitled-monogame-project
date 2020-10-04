@@ -1,0 +1,15 @@
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\Sprites\ball.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\Sprites\Me_Earthbound-Recovered-Sheet.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\Sprites\Me_Earthbound-Recovered.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\Sprites\Sprite-3.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\Content\TimesNewRoman.xnb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\HelloMonoGame.exe
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\HelloMonoGame.pdb
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\MonoGame.Aseprite.dll
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\18606\source\repos\MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.csprojAssemblyReference.cache
+C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.csproj.CopyComplete
+C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.exe
+C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.pdb

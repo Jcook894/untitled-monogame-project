@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/18606/source/repos/MonoGame/Content/Sprites/Me_Earthbound-Recovered.json</SourceFile>
+  <SourceTime>2020-10-04T00:05:21.239409-04:00</SourceTime>
+  <DestFile>C:/Users/18606/source/repos/MonoGame/Content/bin/Windows/Content/Sprites/Me_Earthbound-Recovered.xnb</DestFile>
+  <DestTime>2020-10-04T00:07:47.334368-04:00</DestTime>
+  <Importer>Importer</Importer>
+  <ImporterTime>2020-10-04T00:05:21.2424007-04:00</ImporterTime>
+  <Processor>Processor</Processor>
+  <ProcessorTime>2020-10-04T00:05:21.2424007-04:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
