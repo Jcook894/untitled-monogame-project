@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/18606/source/repos/MonoGame/Content/File.spritefont","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21521,0.2224056
+"C:/Users/18606/source/repos/MonoGame/Content/Sprites/ball.png","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/Sprites/ball.xnb","TextureProcessor","Texture2DContent",8368,16469,0.0159574
+"C:/Users/18606/source/repos/MonoGame/Content/Sprites/Me_Earthbound-Recovered.json","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/Sprites/Me_Earthbound-Recovered.xnb","Processor","AsepriteModel",1796,192,0.1306507
+"C:/Users/18606/source/repos/MonoGame/Content/Sprites/Me_Earthbound-Recovered-Sheet.png","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/Sprites/Me_Earthbound-Recovered-Sheet.xnb","TextureProcessor","Texture2DContent",1869,21589,0.0079786
+"C:/Users/18606/source/repos/MonoGame/Content/Sprites/Sprite-3.png","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/Sprites/Sprite-3.xnb","TextureProcessor","Texture2DContent",722,5205,0.0039901
+"C:/Users/18606/source/repos/MonoGame/Content/TimesNewRoman.spritefont","C:/Users/18606/source/repos/MonoGame/Content/bin/DesktopGL/Content/TimesNewRoman.xnb","FontDescriptionProcessor","SpriteFontContent",2078,21521,0.0199465

@@ -13,3 +13,4 @@ C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.csprojAssemblyR
 C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.csproj.CopyComplete
 C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.exe
 C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.pdb
+C:\Users\18606\source\repos\MonoGame\obj\x86\Debug\HelloMonoGame.csproj.CoreCompileInputs.cache

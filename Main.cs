@@ -20,7 +20,6 @@ namespace HelloMonoGame
             _graphicsDeviceManager = new GraphicsDeviceManager(this);
             IsMouseVisible = true;
             Content.RootDirectory = "Content";
-            
         }
 
         protected override void LoadContent()
@@ -49,12 +48,10 @@ namespace HelloMonoGame
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.Black);
-
             _spriteBatch.Begin();
             _spriteBatch.DrawString(_spriteFont, "My first string written in monogame!", new Vector2(100, 100), Color.Aquamarine);
             _player.RenderPlayerSprite(_spriteBatch);
             _spriteBatch.End();
-
             base.Draw(gameTime);
         }
     }
